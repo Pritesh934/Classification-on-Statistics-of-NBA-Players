@@ -75,4 +75,4 @@ The project uses **10-fold Stratified Cross-Validation** to ensure robust perfor
   
 - Maximum Validation Accuracy (Decision Trees): 64.30 %
 
-- Average 10 Fold Cross-Validation Accuracy: 59.40 %
+- Average 10 Fold Cross-Validation Accuracy (Random Forest): 59.40 %
