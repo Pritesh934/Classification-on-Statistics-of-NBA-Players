@@ -67,3 +67,12 @@ The project uses **10-fold Stratified Cross-Validation** to ensure robust perfor
 4.  Run the cells to train the models and view the classification results.
 
 > **Note**: The project includes a `dummy_test.csv` file, which can be used to test the model on unseen or synthetic data to verify its generalization capabilities.
+
+
+## Results
+
+- Maximum Training Accuracy (Decision Trees): 75.51 %
+  
+- Maximum Validation Accuracy (Decision Trees): 64.30 %
+
+- Average 10 Fold Cross-Validation Accuracy: 59.40 %
